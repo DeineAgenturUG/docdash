@@ -1,6 +1,6 @@
 {
-  "name": "docdash",
-  "version": "0.4.1",
+  "name": "@deineagenturug/docdash",
+  "version": "0.4.2",
   "description": "A clean, responsive documentation template theme for JSDoc 3 inspired by lodash and minami",
   "main": "publish.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/clenemt/docdash.git"
+    "url": "git+https://github.com/clenemt/docdash.git"
   },
   "devDependencies": {
     "jsdoc": "latest",
@@ -22,5 +22,9 @@
   "keywords": [
     "jsdoc",
     "template"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/clenemt/docdash/issues"
+  },
+  "homepage": "https://github.com/clenemt/docdash#readme"
 }
